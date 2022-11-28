@@ -1,0 +1,21 @@
+{
+  "name": "darker-plus-plus",
+  "displayName": "Darker++",
+  "description": "An enhanced version of dark+ (the default theme) to make it darker, cleaner & easier on the eye.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darker++",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darker++-color-theme.json"
+      }
+    ]
+  }
+}
