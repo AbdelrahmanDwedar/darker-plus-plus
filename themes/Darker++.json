@@ -1,9 +1,9 @@
 {
 	"name": "Darker++",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
+		"editor.background": "#191919",
+		"editor.foreground": "#D4D4D4",
+		"activityBarBadge.background": "#181818",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
