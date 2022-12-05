@@ -1,2 +1,6 @@
 node_modules
 *.vsix
+
+# ignore the node package managers
+package-lock.json
+yarn.lock
