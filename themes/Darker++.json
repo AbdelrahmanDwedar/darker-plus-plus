@@ -6,6 +6,7 @@
 		"activityBarBadge.background": "#181818",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
+
 	"tokenColors": [
 		{
 			"name": "Comment",
@@ -18,6 +19,7 @@
 				"foreground": "#546E7A"
 			}
 		},
+
 		{
 			"name": "Variables",
 			"scope": [
@@ -28,6 +30,7 @@
 				"foreground": "#EEFFFF"
 			}
 		},
+
 		{
 			"name": "Colors",
 			"scope": [
@@ -37,6 +40,7 @@
 				"foreground": "#ffffff"
 			}
 		},
+
 		{
 			"name": "Invalid",
 			"scope": [
@@ -47,6 +51,7 @@
 				"foreground": "#FF5370"
 			}
 		},
+
 		{
 			"name": "Keyword, Storage",
 			"scope": [
@@ -58,6 +63,7 @@
 				"foreground": "#C792EA"
 			}
 		},
+
 		{
 			"name": "Operator, Misc",
 			"scope": [
@@ -78,6 +84,7 @@
 				"foreground": "#89DDFF"
 			}
 		},
+
 		{
 			"name": "Tag",
 			"scope": [
@@ -89,6 +96,7 @@
 				"foreground": "#f07178"
 			}
 		},
+
 		{
 			"name": "Function, Special Method",
 			"scope": [
@@ -102,6 +110,7 @@
 				"foreground": "#82AAFF"
 			}
 		},
+
 		{
 			"name": "Block Level Variables",
 			"scope": [
@@ -111,6 +120,7 @@
 				"foreground": "#f07178"
 			}
 		},
+
 		{
 			"name": "Other Variable, String Link",
 			"scope": [
@@ -121,6 +131,7 @@
 				"foreground": "#f07178"
 			}
 		},
+
 		{
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": [
@@ -137,6 +148,7 @@
 				"foreground": "#F78C6C"
 			}
 		},
+
 		{
 			"name": "String, Symbols, Inherited Class, Markup Heading",
 			"scope": [
@@ -152,6 +164,7 @@
 				"foreground": "#C3E88D"
 			}
 		},
+
 		{
 			"name": "Class, Support",
 			"scope": [
@@ -168,6 +181,7 @@
 				"foreground": "#FFCB6B"
 			}
 		},
+
 		{
 			"name": "Entity Types",
 			"scope": [
@@ -177,6 +191,7 @@
 				"foreground": "#B2CCD6"
 			}
 		},
+
 		{
 			"name": "CSS Class and Support",
 			"scope": [
@@ -191,6 +206,7 @@
 				"foreground": "#B2CCD6"
 			}
 		},
+
 		{
 			"name": "Sub-methods",
 			"scope": [
@@ -202,6 +218,7 @@
 				"foreground": "#FF5370"
 			}
 		},
+
 		{
 			"name": "Language methods",
 			"scope": [
@@ -212,6 +229,7 @@
 				"foreground": "#FF5370"
 			}
 		},
+
 		{
 			"name": "entity.name.method.js",
 			"scope": [
@@ -222,6 +240,7 @@
 				"foreground": "#82AAFF"
 			}
 		},
+
 		{
 			"name": "meta.method.js",
 			"scope": [
@@ -232,6 +251,7 @@
 				"foreground": "#82AAFF"
 			}
 		},
+
 		{
 			"name": "Attributes",
 			"scope": [
@@ -241,6 +261,7 @@
 				"foreground": "#C792EA"
 			}
 		},
+
 		{
 			"name": "HTML Attributes",
 			"scope": [
@@ -252,6 +273,7 @@
 				"foreground": "#FFCB6B"
 			}
 		},
+
 		{
 			"name": "CSS Classes",
 			"scope": [
@@ -261,6 +283,7 @@
 				"foreground": "#FFCB6B"
 			}
 		},
+
 		{
 			"name": "CSS ID's",
 			"scope": [
@@ -270,6 +293,7 @@
 				"foreground": "#82AAFF"
 			}
 		},
+
 		{
 			"name": "Inserted",
 			"scope": [
@@ -279,6 +303,7 @@
 				"foreground": "#C3E88D"
 			}
 		},
+
 		{
 			"name": "Deleted",
 			"scope": [
@@ -288,6 +313,7 @@
 				"foreground": "#FF5370"
 			}
 		},
+		
 		{
 			"name": "Changed",
 			"scope": [
@@ -297,6 +323,7 @@
 				"foreground": "#C792EA"
 			}
 		},
+
 		{
 			"name": "Regular Expressions",
 			"scope": [
@@ -306,6 +333,7 @@
 				"foreground": "#89DDFF"
 			}
 		},
+
 		{
 			"name": "Escape Characters",
 			"scope": [
@@ -315,6 +343,7 @@
 				"foreground": "#89DDFF"
 			}
 		},
+
 		{
 			"name": "URL",
 			"scope": [
@@ -326,6 +355,7 @@
 				"fontStyle": "underline"
 			}
 		},
+
 		{
 			"name": "Decorators",
 			"scope": [
@@ -337,6 +367,7 @@
 				"foreground": "#82AAFF"
 			}
 		},
+
 		{
 			"name": "ES7 Bind Operator",
 			"scope": [
@@ -347,6 +378,7 @@
 				"foreground": "#FF5370"
 			}
 		},
+
 		{
 			"name": "JSON Key - Level 0",
 			"scope": [
@@ -356,6 +388,7 @@
 				"foreground": "#C792EA"
 			}
 		},
+
 		{
 			"name": "JSON Key - Level 1",
 			"scope": [
@@ -365,6 +398,7 @@
 				"foreground": "#FFCB6B"
 			}
 		},
+
 		{
 			"name": "JSON Key - Level 2",
 			"scope": [
@@ -374,6 +408,7 @@
 				"foreground": "#F78C6C"
 			}
 		},
+
 		{
 			"name": "JSON Key - Level 3",
 			"scope": [
@@ -383,6 +418,7 @@
 				"foreground": "#FF5370"
 			}
 		},
+
 		{
 			"name": "JSON Key - Level 4",
 			"scope": [
@@ -392,6 +428,7 @@
 				"foreground": "#C17E70"
 			}
 		},
+
 		{
 			"name": "JSON Key - Level 5",
 			"scope": [
@@ -401,6 +438,7 @@
 				"foreground": "#82AAFF"
 			}
 		},
+
 		{
 			"name": "JSON Key - Level 6",
 			"scope": [
@@ -410,6 +448,7 @@
 				"foreground": "#f07178"
 			}
 		},
+
 		{
 			"name": "JSON Key - Level 7",
 			"scope": [
@@ -419,6 +458,7 @@
 				"foreground": "#C792EA"
 			}
 		},
+
 		{
 			"name": "JSON Key - Level 8",
 			"scope": [
@@ -428,6 +468,7 @@
 				"foreground": "#C3E88D"
 			}
 		},
+
 		{
 			"name": "Markdown - Plain",
 			"scope": [
@@ -438,6 +479,7 @@
 				"foreground": "#EEFFFF"
 			}
 		},
+
 		{
 			"name": "Markdown - Markup Raw Inline",
 			"scope": [
@@ -447,6 +489,7 @@
 				"foreground": "#C792EA"
 			}
 		},
+
 		{
 			"name": "Markdown - Markup Raw Inline Punctuation",
 			"scope": [
@@ -456,6 +499,7 @@
 				"foreground": "#65737E"
 			}
 		},
+
 		{
 			"name": "Markdown - Heading",
 			"scope": [
@@ -467,6 +511,7 @@
 				"foreground": "#C3E88D"
 			}
 		},
+
 		{
 			"name": "Markup - Italic",
 			"scope": [
@@ -477,6 +522,7 @@
 				"foreground": "#f07178"
 			}
 		},
+		
 		{
 			"name": "Markup - Bold",
 			"scope": [
@@ -488,6 +534,7 @@
 				"foreground": "#f07178"
 			}
 		},
+
 		{
 			"name": "Markup - Bold-Italic",
 			"scope": [
@@ -503,6 +550,7 @@
 				"foreground": "#f07178"
 			}
 		},
+
 		{
 			"name": "Markup - Underline",
 			"scope": [
@@ -513,6 +561,7 @@
 				"foreground": "#F78C6C"
 			}
 		},
+
 		{
 			"name": "Markdown - Blockquote",
 			"scope": [
@@ -522,6 +571,7 @@
 				"foreground": "#65737E"
 			}
 		},
+
 		{
 			"name": "Markup - Quote",
 			"scope": [
@@ -531,6 +581,7 @@
 				"fontStyle": "italic"
 			}
 		},
+
 		{
 			"name": "Markdown - Link",
 			"scope": [
@@ -540,6 +591,7 @@
 				"foreground": "#82AAFF"
 			}
 		},
+
 		{
 			"name": "Markdown - Link Description",
 			"scope": [
@@ -549,6 +601,7 @@
 				"foreground": "#C792EA"
 			}
 		},
+
 		{
 			"name": "Markdown - Link Anchor",
 			"scope": [
@@ -558,6 +611,7 @@
 				"foreground": "#FFCB6B"
 			}
 		},
+
 		{
 			"name": "Markup - Raw Block",
 			"scope": [
@@ -567,6 +621,7 @@
 				"foreground": "#C792EA"
 			}
 		},
+
 		{
 			"name": "Markdown - Raw Block Fenced",
 			"scope": [
@@ -576,6 +631,7 @@
 				"foreground": "#00000050"
 			}
 		},
+
 		{
 			"name": "Markdown - Fenced Bode Block",
 			"scope": [
@@ -585,6 +641,7 @@
 				"foreground": "#00000050"
 			}
 		},
+
 		{
 			"name": "Markdown - Fenced Bode Block Variable",
 			"scope": [
@@ -596,6 +653,7 @@
 				"foreground": "#EEFFFF"
 			}
 		},
+
 		{
 			"name": "Markdown - Fenced Language",
 			"scope": [
@@ -605,6 +663,7 @@
 				"foreground": "#65737E"
 			}
 		},
+
 		{
 			"name": "Markdown - Separator",
 			"scope": [
@@ -615,6 +674,7 @@
 				"foreground": "#65737E"
 			}
 		},
+
 		{
 			"name": "Markup - Table",
 			"scope": [
