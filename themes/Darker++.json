@@ -61,16 +61,6 @@
 		},
 
 		{
-			"name": "Colors",
-			"scope": [
-				"constant.other.color"
-			],
-			"settings": {
-				"foreground": "#ffffff"
-			}
-		},
-
-		{
 			"name": "Invalid",
 			"scope": [
 				"invalid",
