@@ -292,16 +292,6 @@
 		},
 
 		{
-			"name": "Language methods",
-			"scope": [
-			],
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#FF5370"
-			}
-		},
-
-		{
 			"name": "entity.name.method.js",
 			"scope": [
 				"entity.name.method.js"
