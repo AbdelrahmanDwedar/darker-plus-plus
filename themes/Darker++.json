@@ -275,18 +275,9 @@
 		},
 
 		{
-			"name": "Entity Types",
-			"scope": [
-				"support.type"
-			],
-			"settings": {
-				"foreground": "#B2CCD6"
-			}
-		},
-
-		{
 			"name": "CSS Class and Support",
 			"scope": [
+				"support.type",
 				"source.css support.type.property-name",
 				"source.sass support.type.property-name",
 				"source.scss support.type.property-name",
