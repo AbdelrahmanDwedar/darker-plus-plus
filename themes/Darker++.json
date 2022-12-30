@@ -820,7 +820,7 @@
 		},
 
 		{
-			"name": "...",
+			"name": "CSS Variables",
 			"scope": [
 				"support.type.vendored.property-name",
 				"support.type.property-name",
