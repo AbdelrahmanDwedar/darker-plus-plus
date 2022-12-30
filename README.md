@@ -1,16 +1,35 @@
-# darker-plus-plus README
+# darker-plus-plus
 
-## Working with Markdown
+**The best contrast dark mode ever made!**  
+Inspired by [Dark++ Theme](https://marketplace.visualstudio.com/items?itemName=DryWolf.dark-plus-plus-theme).
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+It's darker than the original **Dark+** theme & also better contrast.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+---
 
-## For more information
+## Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### VS Code Commands
+```
+ext install darker-plus-plus
+```
 
-**Enjoy!**
+### Terminal Command
+```bash
+code --install-extention darker-plus-plus
+```
+
+---
+
+## Colors
+
+| Color      | Scopes                      |
+|------------|-----------------------------|
+| `#191919`  | Background                  |
+| `#181818`  | Active bar badge background |
+| `#D4D4D4`  | Foreground                  |
+| `#BBBBBB`  | sidebar title foreground    |
+| `#424242`  | Indent guide background     |
+| `#131313`  | Ruler foreground            |
+
+---
